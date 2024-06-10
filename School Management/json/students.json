@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "firstname": "John",
+      "lastname": "Sans",
+      "ID": "56",
+      "Grade": "High"
+    },
+    {
+      "firstname": "Dan",
+      "lastname": "Wood",
+      "ID": "17",
+      "Grade": "Middle"
+    },
+    {
+      "firstname": "Dibyam",
+      "lastname": "Jalan",
+      "ID": 27,
+      "Grade": "High"
+    },
+    {
+      "firstname": "sdf",
+      "lastname": "dfg",
+      "ID": 432,
+      "Grade": "Middle"
+    },
+    {
+      "firstname": "fds",
+      "lastname": "dfs",
+      "ID": 32,
+      "Grade": "9"
+    }
+  ],
+  "teachers": [
+    {
+      "firstname": "Dan",
+      "lastname": "Wood",
+      "ID": "17",
+      "Subject": "Maths"
+    },
+    {
+      "firstname": "Dan",
+      "lastname": "Wood",
+      "ID": "17",
+      "Subject": "Chemistry"
+    },
+    {
+      "firstname": "hdg",
+      "lastname": " fsd",
+      "ID": "2",
+      "Subject": " SocialScience"
+    },
+    {
+      "firstname": "sauel",
+      "lastname": " fs",
+      "ID": "34",
+      "subject": " Maths"
+    }
+  ]
+}
